@@ -11,10 +11,10 @@
 ## Getting data
 
 __Bootcamp concept: Using APIs__
-- I will need to get daily closing prices for a universe of stocks --> Alpha Vantage
+- Get daily closing prices for a universe of stocks --> Alpha Vantage
 
 __Bootcamp concept: Web Scraping__
-- I will need to include other company information (sector, profitability, debt ratios, etc.) --> Yahoo! Finance & Wikipedia
+- Include other company information (sector, profitability, debt ratios, etc.) --> Yahoo! Finance & Wikipedia
 
 ### 
 
